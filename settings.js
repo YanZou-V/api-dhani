@@ -1,8 +1,8 @@
 // YTTA
 
 //settings
-global.creator = 'DhaniOfficiall'
-global.listkey = ["apikeynya","turusek"]
+global.creator = '@Rokumo2024'
+global.listkey = ["roroku"]
 
 //isi agar fitur fitur bisa di gunakan.
 global.lolkey = 'ISI_PUNYA_LOLHUMAN' // Dapatkan di https://api.lolhuman.xyz
